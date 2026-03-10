@@ -1,5 +1,7 @@
 {
-  "rewrites": [
-    { "source": "/api/(.*)", "destination": "/api/$1" }
-  ]
+  "functions": {
+    "api/hotmart-webhook.js": {
+      "runtime": "nodejs20.x"
+    }
+  }
 }
