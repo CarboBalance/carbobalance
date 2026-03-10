@@ -1,0 +1,8 @@
+{
+  "name": "carbobalance",
+  "version": "1.0.0",
+  "description": "CarboBalance - Contagem de Carboidratos",
+  "dependencies": {
+    "firebase-admin": "^12.0.0"
+  }
+}
